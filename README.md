@@ -1,6 +1,6 @@
 # HSMCalculatorDemo 
 
-This package contains an Xcode project with an iOS _HSMCalculator_ demo app that demonstrates using [UML hierarchical state machine framework for Swift](https://github.com/SergeBouts/HSM).
+This package contains an Xcode project with an iOS _HSMCalculator_ demo app that demonstrates using [UML hierarchical state machine framework for Swift](https://github.com/SerhiyButz/HSM).
 
 
 
